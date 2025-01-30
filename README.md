@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anuhya1002
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning Art, 3D Illustration, Full stack development
-- 💞️ I’m looking to collaborate on Design teams, Art teams, Creative teams
+- 👀 I’m interested in Full stack development and UI/UX Design
+- 🌱 I’m currently learning Art, 3D Illustration
+- 💞️ I’m looking to collaborate on Design teams, Art teams, Creative teams, Full stack development teams
 - 📫 How to reach me mail me anuhyagangireddy@gmail.com
 
 <!---
